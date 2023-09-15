@@ -44,3 +44,10 @@ The model worked with an accuracy of 89.3% on testing data.
 
 ## Ensembled Model
 The ensembled model had an accuracy of 89.51%.
+
+
+## OUTPUT
+![image](output.jpeg)
+
+##link to files that couldn't be uploaded because of large size
+https://drive.google.com/drive/folders/13GN2dHQ8BII4NabrjrPRSaB8p2bWz08F?usp=sharing
