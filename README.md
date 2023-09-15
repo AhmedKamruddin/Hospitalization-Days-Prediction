@@ -2,7 +2,7 @@
 Prevention of unnecessary hospitalization and prediction of days the patient is required to be hospitalized.
 <h1 align="center"> Hospitalization-days-prediction</h1>
 
-<div align= "center"><img src="https://github.com/stuti2403/Hospitalization-days-prediction/blob/main/logo.jpg"/>
+<div align= "center"><img src="https://github.com/stuti2403/Hospitalization-Days-Prediction/blob/main/logo.jpg"/>
   <h4>A system that predicts the duration of hospitalization required with an aim to prevent unnecessary hospitalizations, thereby saving expenditure on healthcare per capita.</h4>
 </div>
 
