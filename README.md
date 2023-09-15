@@ -20,7 +20,7 @@ Amid the time of recession and increase in healthcare expenses after the pandemi
 
 <!-- - [MobileNetV2](https://arxiv.org/abs/1801.04381) -->
 <h1 align="center"> Relational Schema of the desired system</h1>
-<div align= "center"><img src="https://github.com/stuti2403/Hospitalization-days-prediction/blob/main/Relational Schema.png"/></div>
+<div align= "center"><img src="https://github.com/stuti2403/Hospitalization-Days-Prediction/blob/main/output.jpeg"/></div>
 
 ## About Project
 THE PROBLEM STATEMENT HAS BEEN SOLVED BY REGRESSION IN THIS PROJECT.
