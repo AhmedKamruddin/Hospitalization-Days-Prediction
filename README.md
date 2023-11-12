@@ -1,22 +1,15 @@
 # Predictive Healthcare Modeling: Reducing Healthcare Costs
-A system that's primary objective is to prevent unnecessary hospitalizations and consequently reduce healthcare expenditure per person.
+A system whose primary objective is to prevent unnecessary hospitalizations and consequently reduce healthcare expenditure per person.
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## :innocent: Motivation
 In the midst of the economic downturn and rising healthcare costs following the pandemic, there is a critical need to reduce healthcare spending and decrease the frequency of hospitalizations. This approach not only supports the alleviation of hospital overcrowding, considering preventative measures beyond the pandemic, but also contributes to lowering both individual and governmental healthcare expenses.
 
-## :warning: Framework used
+## :warning: Framework Used
 
-- [Python](https://www.python.org/)
-- [Data Science]
-- [Machine Learning]
-
-
-<!-- - [MobileNetV2](https://arxiv.org/abs/1801.04381) -->
-<h1 align="center"> Relational Schema of the desired system</h1>
-<div align= "center"><img src="https://github.com/stuti2403/Hospitalization-Days-Prediction/blob/main/Relational%20Schema.png"/></div>
+- Python
+- Data Science
+- Machine Learning
 
 ## About Project
 The regression approach successfully addressed the problem statement in this project. The project demanded meticulous data preprocessing due to the provided dataset's intricate nature, consisting of 13 CSV files. As a team, we first gained a comprehensive understanding of the data and the desired output, leading to the systematic design of the system.
