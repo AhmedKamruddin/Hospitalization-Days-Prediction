@@ -1,5 +1,5 @@
 # Predictive Healthcare Modeling: Reducing Healthcare Costs
-A system whose primary objective is to prevent unnecessary hospitalizations and consequently reduce healthcare expenditure per person.
+A machine learning model whose objective is to prevent unnecessary hospitalizations and consequently reduce healthcare expenditure per person.
 
 
 ## :innocent: Motivation
